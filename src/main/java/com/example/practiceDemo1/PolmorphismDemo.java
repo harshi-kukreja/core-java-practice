@@ -1,4 +1,4 @@
-package com.example;
+package com.example.practiceDemo1;
 
 public class PolmorphismDemo {
     public static void main(String[] args) {

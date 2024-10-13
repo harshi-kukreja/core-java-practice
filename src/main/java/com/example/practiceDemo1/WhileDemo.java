@@ -1,4 +1,4 @@
-package com.example;
+package com.example.practiceDemo1;
 
 public class WhileDemo {
     public static void main(String[] args) {

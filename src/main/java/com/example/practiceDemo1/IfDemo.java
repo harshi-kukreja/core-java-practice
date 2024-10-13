@@ -1,4 +1,4 @@
-package com.example;
+package com.example.practiceDemo1;
 
 public class IfDemo {
     public static void main(String[] args) {

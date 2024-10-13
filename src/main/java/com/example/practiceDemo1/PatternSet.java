@@ -1,4 +1,4 @@
-package com.example;
+package com.example.practiceDemo1;
 
 public class PatternSet {
     public static void main(String[] args) {

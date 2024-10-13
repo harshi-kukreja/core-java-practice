@@ -1,4 +1,4 @@
-package com.example;
+package com.example.practiceDemo1;
 
 class Vehicle{
     public void Sound(){

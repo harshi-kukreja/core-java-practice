@@ -1,10 +1,11 @@
-package com.example;
+package com.example.practiceDemo1;
 
 import java.util.ArrayList;
+import java.util.List;
 
-public class ArrayListDemo {
+public class ListDemo {
     public static void main(String[] args) {
-        ArrayList<String> animal=new ArrayList<>();
+        List<String> animal=new ArrayList<>();
         animal.add("cat");
         animal.add("dog");
         animal.add("cow");
