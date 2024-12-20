@@ -1,4 +1,4 @@
-package com.example;
+package com.example.stringPrograms;
 
 public class Testing {
     public static void main(String[] args) {
