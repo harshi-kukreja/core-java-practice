@@ -1,6 +1,6 @@
-package com.example;
+package com.example.stringPrograms;
 
-import static com.example.Testing.addtwoString;
+import static com.example.stringPrograms.Testing.addtwoString;
 
 public class AddTwoString {
     public static void main(String[] args) {
