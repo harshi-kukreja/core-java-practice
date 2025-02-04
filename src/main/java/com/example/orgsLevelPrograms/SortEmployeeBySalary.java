@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-class Employee {
+public class Employee {
     private String name;
     private double salary;
 
