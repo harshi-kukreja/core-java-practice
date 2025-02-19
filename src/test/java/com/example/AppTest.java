@@ -29,7 +29,7 @@ public class AppTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigourous com.example.sunil.practicePrograms.Test :-)
      */
     public void testApp()
     {
